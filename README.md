@@ -1,2 +1,3 @@
 # webhookspammer
-A Discord webhook spammer. 
+A simple multithreaded Discord webhook spammer.
+___

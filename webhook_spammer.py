@@ -2,7 +2,6 @@ import requests
 import threading
 import time
 
-msgs = 5 
 delay = 1
 threads = 3
 webhook = ''
